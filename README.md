@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # TTS Editor Web App
 
@@ -20,3 +21,6 @@ This is a web version of the Text-to-Speech (TTS) editor using AWS Polly. It sup
 
 - Render.com (Recommended)
 - Replit
+=======
+# texttospeechpro
+>>>>>>> bde86f17c20ac4bc2eca9f592464cf44e93c236d
